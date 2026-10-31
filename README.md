@@ -64,11 +64,11 @@ O Swagger está habilitado no ambiente de desenvolvimento.
 
 ### Etapa 2 — Conteinerização
 
-- [ ] Criar Dockerfile inicial
-- [ ] Construir imagem Docker
-- [ ] Executar a aplicação em container
-- [ ] Demonstrar execução como usuário root
-- [ ] Registrar evidências do cenário inseguro
+- [x] Criar Dockerfile inicial
+- [x] Construir imagem Docker
+- [x] Executar a aplicação em container
+- [x] Demonstrar execução como usuário root
+- [x] Registrar evidências do cenário inseguro
 
 ### Etapa 3 — Políticas de segurança (OPA/Rego)
 
