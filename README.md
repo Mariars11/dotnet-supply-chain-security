@@ -81,12 +81,12 @@ O Swagger está habilitado no ambiente de desenvolvimento.
 
 ### Etapa 4 — Inventário e vulnerabilidades
 
-- [ ] Gerar SBOM com Syft
-- [ ] Salvar SBOM em formato JSON
-- [ ] Executar análise com Trivy
-- [ ] Identificar pelo menos uma vulnerabilidade real
-- [ ] Registrar CVE, severidade e componente afetado
-- [ ] Salvar evidência da análise
+- [x] Gerar SBOM com Syft
+- [x] Salvar SBOM em formato JSON
+- [x] Executar análise com Trivy
+- [x] Identificar pelo menos uma vulnerabilidade real
+- [x] Registrar CVE, severidade e componente afetado
+- [x] Salvar evidência da análise
 
 ### Etapa 5 — Integridade da cadeia de suprimentos
 

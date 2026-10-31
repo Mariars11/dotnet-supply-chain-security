@@ -59,3 +59,6 @@ coverage/
 # ========================================
 .DS_Store
 Thumbs.db
+
+# Cache de ferramentas de segurança
+.trivy-cache/
