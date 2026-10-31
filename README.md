@@ -72,12 +72,12 @@ O Swagger está habilitado no ambiente de desenvolvimento.
 
 ### Etapa 3 — Políticas de segurança (OPA/Rego)
 
-- [ ] Criar política Rego
-- [ ] Definir regra para impedir execução como root
-- [ ] Testar política com OPA ou Conftest
-- [ ] Demonstrar bloqueio da configuração insegura
-- [ ] Corrigir Dockerfile
-- [ ] Validar aprovação da configuração corrigida
+- [x] Criar política Rego
+- [x] Definir regra para impedir execução como root
+- [x] Testar política com OPA ou Conftest
+- [x] Demonstrar bloqueio da configuração insegura
+- [x] Corrigir Dockerfile
+- [x] Validar aprovação da configuração corrigida
 
 ### Etapa 4 — Inventário e vulnerabilidades
 

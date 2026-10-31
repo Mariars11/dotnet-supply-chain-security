@@ -1,0 +1,17 @@
+{
+  "result": [
+    {
+      "expressions": [
+        {
+          "value": "BLOQUEADO: imagem sem usuario definido (root por padrao)",
+          "text": "data.security.deny[_]",
+          "location": {
+            "row": 1,
+            "col": 1
+          }
+        }
+      ]
+    }
+  ]
+}
+Codigo de saida: 1
